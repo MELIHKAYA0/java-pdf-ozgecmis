@@ -1,0 +1,17 @@
+# Maven derleme çıktıları
+target/
+
+# IDE dosyaları
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
+
+# Program her çalıştığında proje kök dizininde yeniden üretilen PDF
+/ozgecmis.pdf
